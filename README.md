@@ -26,14 +26,15 @@ It includes a dashboard-style interface with a sidebar, header, card layout, and
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Home Page
-(C:\Users\Admin\Desktop\knowledge-base-ui\screenshots\home.pngts/home.png)
+![Home](./screenshots/home.png)
 
 ### Modal
 ![Modal](./screenshots/modal.png)
 
 ### Mobile View
-![Mobile](./screenshots/mobileview1.png)
-![Mobile](./screenshots/mobileview2.png)
+![Mobile](./screenshots/mobile.png)
 ## Live Demo
 (Live link will be added here)
