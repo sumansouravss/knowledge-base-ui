@@ -27,7 +27,7 @@ It includes a dashboard-style interface with a sidebar, header, card layout, and
 ## 📸 Screenshots
 
 ### Home Page
-![Home](./screenshots/home.png)
+![Home](C:\Users\Admin\Desktop\knowledge-base-ui\screenshots\home.pngts/home.png)
 
 ### Modal
 ![Modal](./screenshots/modal.png)
