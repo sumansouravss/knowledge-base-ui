@@ -35,6 +35,7 @@ It includes a dashboard-style interface with a sidebar, header, card layout, and
 ![Modal](./screenshots/modal.png)
 
 ### Mobile View
-![Mobile](./screenshots/mobile.png)
+![Mobile](./screenshots/mobileview1.png)
+![Mobile](./screenshots/mobileview2.png)
 ## Live Demo
 (Live link will be added here)
