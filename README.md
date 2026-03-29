@@ -38,4 +38,4 @@ It includes a dashboard-style interface with a sidebar, header, card layout, and
 ![Mobile](./screenshots/mobileview1.png)
 ![Mobile](./screenshots/mobileview2.png)
 ## Live Demo
-(Live link will be added here)
+https://knowledge-base-ui-three.vercel.app/
